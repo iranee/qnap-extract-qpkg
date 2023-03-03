@@ -6,4 +6,4 @@
 extract_qpkg.sh package.qpkg [destdir]
 
 * package.qpkg 为正常的qnap插件安装包
-* destdir 为解压缩有存储的路径，空置则为package
+* destdir 为解压缩后存储的路径，空置则为同名package
